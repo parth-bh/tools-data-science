@@ -39,6 +39,9 @@ You can find practical experiment in the "analysis_output" folder
 
 
 8. Deploy Tools: Methods for deploying data science solutions into production environments.
+   *   Heroku 
+   *   Streamlit
+   I have utilized these deployment tools for other codes.
 
 
 
