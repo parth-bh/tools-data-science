@@ -10,6 +10,8 @@ I have created a repository where I have employed and learned various tools that
     *   PDF Scraping: Extract tables from PDFs and work with them directly using **Tabula** Library.
     *   Wikipedia Library: Extract data from **Wikipedia** Library.
     *   GPS Location: Obtain location details using **Geocoder** Library.
+   
+   You can find practical experiment in the "gettig-data" folder
 
 3. Prepare the Data: Tools for data cleaning, preprocessing, and transforming raw data into a suitable format for analysis.
 
