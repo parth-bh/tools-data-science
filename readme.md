@@ -21,7 +21,7 @@ I have created a repository where I have employed and learned various tools that
     *   Forecasting with ARIMA: Employed to predict new death cases in the COVID-19 dataset.
     *   Pycaret: Utilized on an inbuilt dataset to understand how Pycaret runs multiple models simultaneously and identifies the best-performing model.
     *   Decision Tree: Developed decision tree models for classification tasks.
-    *   TextBlob: Conducted sentiment analysis using TextBlob."
+    *   TextBlob: Conducted sentiment analysis using TextBlob.
 
 You can find these models in the "ML-Models" folder
 
@@ -43,6 +43,7 @@ You can find practical experiment in the "analysis_output" folder
 8. Deploy Tools: Methods for deploying data science solutions into production environments.
    *   Heroku 
    *   Streamlit
+   
    I have utilized these deployment tools for other codes.
 
 
